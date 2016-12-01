@@ -1,2 +1,2 @@
 This is the README file
-Author's Email : bob@hansung.ac.kr
+Authors email : gamebok1004@gmail.com
