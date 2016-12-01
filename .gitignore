@@ -1,0 +1,10 @@
+# .gitignore
+
+# Java class files
+*.class
+
+*.exe
+
+*.[oa]
+
+temp/
